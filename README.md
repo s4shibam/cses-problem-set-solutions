@@ -1,2 +1,13 @@
-# cses-problem-set-solutions
-The CSES Problem Set is a collection of 300 algorithmic programming problems, this is available on the website named "cses.fi".
+## CSES PROBLEM SET SOLUTIONS
+
+- #### What is CSES Problem Set?
+        The CSES Problem Set is a collection of 300 algorithmic programming problems.
+        These problem sets are available on their website named [CSES](https://cses.fi/problemset/).
+        CSES problem set contains mostly educational problems.
+        This problem set is for those people who want to learn new algorithms and want to solve questions based on those algorithms.
+ 
+- #### Reason for making this Repository?
+        The simple reaason for making this repository is to take a record of my progress or code which I had submitted on CSES.
+        I will only upload the accepted solution to the problem set question that has been done by me.
+        
+Thank You!
