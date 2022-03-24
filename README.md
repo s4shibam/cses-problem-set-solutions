@@ -2,7 +2,7 @@
 
 ### What is CSES Problem Set?
 - The CSES Problem Set is a collection of 300 algorithmic programming problems.
-- These problem sets are available on their [Website](cses.fi/problemset).
+- These problem sets are available on their [Website](https://cses.fi/problemset/).
 - CSES problem set contains mostly educational problems.
 - It is for those people who want to learn new algorithms and want to solve questions based on those algorithms.
  
