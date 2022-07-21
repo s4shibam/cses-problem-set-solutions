@@ -8,6 +8,5 @@
  
 ### Reason for making this Repository?
 - The simple reaason for making this repository is to take a record of my progress or code which I had submitted on CSES.
-- I will only upload the accepted solution to the problem set question that has been done by me.
         
 Thank You!
